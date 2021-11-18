@@ -1,5 +1,5 @@
 name: easy_integration_testing
-description: A new Flutter package project.
+description: A new Flutter package project. Create to make integrational testing easier. You can use several tapKey, tapWidget and other easy commands to make work faster. There will be possible not just to make integrational test, also to take screenshots of each test.
 version: 0.0.1
 homepage: https://github.com/aitinsan/easy_integration_testing
 

@@ -6,8 +6,8 @@ abstract class IntegrationTestUtils {
 
   static WidgetTester get tester => _tester;
 
-  static initTestApp() {
-    
+  static initTestApp(Function init) {
+    init();
   }
 
   static setTester(WidgetTester tester) {
